@@ -12,12 +12,14 @@ Possuo conhecimento básico na linguagem Python e nas suas principais biblioteca
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/danielle-cd/)
 * [Medium](https://medium.com/@daniellecd)
-* [Website](https://daniellecd.glitch.me/)
+* [Website](EM CONSTRUÇÃO)
 
 Aqui você encontra os _notebooks_ dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
 ## Projetos:
-Lista de pojetos em Jupyter Notebook
-* **Diagnóstico precoce de doenças cardiovasculares** 
+Lista de projetos em Jupyter Notebook
+* **Diagnóstico precoce de doenças cardiovasculares**
+* **Queda de idosos - Frequência, previsão e custos**
+* **Detecção e contagem de moedas com OpenCV**
 
 ---
 
@@ -26,5 +28,5 @@ Lista de pojetos em Jupyter Notebook
 Cientista de Dados em formação <3
 
 *  Graduação em Química e Engenharia Química
-*  Mestrado em Engenhria Química
+*  Mestrado em Engenharia Química
 *  Entusiasta por Python
