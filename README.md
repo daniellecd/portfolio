@@ -1,17 +1,13 @@
 [![author](https://img.shields.io/badge/author-daniellecd-red.svg)](https://www.linkedin.com/in/danielle-cd/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/daniellecd/portfolio/issues)
 
-<p align="center">
-  <img src="/imagens/banner_ds.png" >
-</p>
-
 # Danielle Calazans Dondoni
 
 Possuo os seguintes conhecimentos: 
 
-Python | Pandas | Numpy | Scikit Learn | Matplotlib | Seaborn | Plotly – Nível Intermediário
-SQL | MongoDB | Hadoop | Hive | Kafka | Redis | PySpark – Nível Básico
-PLN | NLTK | SpaCy | BERT – Nível Básico
-Inglês – Nível Intermediário 
+* Python | Pandas | Numpy | Scikit Learn | Matplotlib | Seaborn | Plotly – Nível Intermediário
+* SQL | MongoDB | Hadoop | Hive | Kafka | Redis | PySpark – Nível Básico
+* PLN | NLTK | SpaCy | BERT – Nível Básico
+* Inglês – Nível Intermediário 
 
 
 **Links:**
