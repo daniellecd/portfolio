@@ -5,28 +5,31 @@
 </p>
 
 # Danielle Calazans Dondoni
-<sub>*Data Science Student*
 
-Possuo conhecimento básico na linguagem Python e nas suas principais bibliotecas para manipulação, processamento, limpeza e visualização de dados (Pandas, Numpy, Scikit-learn e Seaborn).
+Possuo os seguintes conhecimentos: 
+
+Python | Pandas | Numpy | Scikit Learn | Matplotlib | Seaborn | Plotly – Nível Intermediário
+SQL | MongoDB | Hadoop | Hive | Kafka | Redis | PySpark – Nível Básico
+PLN | NLTK | SpaCy | BERT – Nível Básico
+Inglês – Nível Intermediário 
+
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/danielle-cd/)
 * [Medium](https://medium.com/@daniellecd)
-* [Website](EM CONSTRUÇÃO)
 
-Aqui você encontra os _notebooks_ dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
-## Projetos:
-Lista de projetos em Jupyter Notebook
-* **Diagnóstico precoce de doenças cardiovasculares**
-* **Queda de idosos - Frequência, previsão e custos**
-* **Detecção e contagem de moedas com OpenCV**
 
+## Projetos em Jupyter Notebook
+* [Diagnóstico precoce de doenças cardiovasculares](https://github.com/daniellecd/portfolio/tree/master/Cardio_Catch_Diseases)
+* [Queda de idosos - Frequência, previsão e custos](https://github.com/daniellecd/portfolio/tree/master/Queda_de_idosos)
+* [Avaliação de Sensor Químico](https://github.com/daniellecd/portfolio/tree/master/Sensor_Quimico)
+
+ ## Projeto em Gitbook:
+ * [Big Data Engineer](https://github.com/daniellecd/portfolio/tree/master/Queda_de_idosos)
 ---
 
 ### Sobre mim:
 
-Cientista de Dados em formação <3
-
 *  Graduação em Química e Engenharia Química
 *  Mestrado em Engenharia Química
-*  Entusiasta por Python
+*  Entusiasta por Python, Big Data, DataScience e Machine Learning
